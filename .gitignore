@@ -1,0 +1,11 @@
+# 원본 데이터
+data/
+
+# 비밀 설정
+.env
+.env.*
+.vercel/
+
+# 윈도우가 만드는 파일
+Thumbs.db
+desktop.ini
