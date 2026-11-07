@@ -5,7 +5,10 @@
   "cards": [
     {"week": 1, "title": "감 테스트", "line": "국제 시황 주요 시세 파악",
      "judgment": "NAVER증권 및 기관공식발표로 정답을 정함",
-     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-jet.vercel.app/", "img": "img/w1.jpg"}
+     "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-jet.vercel.app/", "img": "img/w1.jpg"},
+    {"week": 2, "title": "사내 IT 요청 분류기 — 빈 폴더에서", "line": "IT 요청 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
+     "judgment": "설비점검을 놓치는 것을 가장 나쁜 실수로 정했다. 채점용 30개의 정답은 AI의 의도를 가린 채 내가 붙였고, 6개가 갈렸다",
+     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-one.vercel.app/", "img": ""}
   ],
   "proposal": null
 }
