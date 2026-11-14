@@ -8,7 +8,10 @@
      "ai": ["Claude Code", "v0", "Perplexity"], "url": "https://gam-test-jet.vercel.app/", "img": "img/w1.jpg"},
     {"week": 2, "title": "사내 IT 요청 분류기 — 빈 폴더에서", "line": "IT 요청 한 줄을 넣으면 칸 · 긴급도 · 이유가 나옵니다. 문장과 정답은 직접 만들었습니다",
      "judgment": "설비점검을 놓치는 것을 가장 나쁜 실수로 정했다. 채점용 30개의 정답은 AI의 의도를 가린 채 내가 붙였고, 6개가 갈렸다",
-     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-one.vercel.app/", "img": ""}
+     "ai": ["Claude Code", "Gemini"], "url": "https://my-classifier-one.vercel.app/", "img": ""},
+    {"week": 3, "title": "출장비 정산 정리기 — 빈 폴더에서", "line": "출장비 엑셀을 끌어다 놓으면 내 처방대로 정리본과 바꾼 기록이 나옵니다. 파일은 브라우저를 떠나지 않습니다",
+     "judgment": "금액과 박수가 의심스러운 줄은 고치지 않고 표시했다. 표시하지 않은 줄 가운데 정답에 있는 합계는 정답과 0원 차이였다",
+     "ai": ["Claude Code"], "url": "https://my-cleaner-swart.vercel.app/", "img": ""}
   ],
   "proposal": null
 }
